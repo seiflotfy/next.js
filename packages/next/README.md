@@ -1,3 +1,5 @@
+<img src="https://repobeats.axiom.co/api/embed/f917a77cbbdeee19b87fa1f2f932895d1df18b50.svg" />
+
 <p align="center">
   <a href="https://nextjs.org">
     <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" height="128">
@@ -20,8 +22,6 @@
   </a>
 </p>
 
-
-<img src="https://repobeats.axiom.co/api/embed/f917a77cbbdeee19b87fa1f2f932895d1df18b50.svg" />
 
 ## Getting Started
 
